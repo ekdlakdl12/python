@@ -1,9 +1,9 @@
 from django.urls import path
-
-from.import views
-
+from . import views
 
 urlpatterns =[
     path('',views.index),
+    path('<int:question_id>/',views.detail), #db테이블 id / 내용 매핑
+
 ]
 
