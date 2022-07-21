@@ -8,11 +8,11 @@
 {% if question_list %}	# question_list가 있으면
     <ul>
     {% for question in question_list %}	  # question_list for loop가 돌고
-        <li><a href="/pybo/{{ question.id }}/">{{ question.subject }}</a></li>	# 질문 id, 제목 출력
+        <li><a href="{% url 'pybo:detail' question.id %}">{{ question.subject }}</a><li>	# 질문 id, 제목 출력
     {% endfor %}	# for loop문 끝내는 선언
     </ul>
-{% else %}	# question_list가 없으면
+    {% else %}	# question_list가 없으면
     <p>질문이 없습니다.</p>	# 질문 없다고 출력
-{% endif %}	# if문 끝내는 선언
+    {% endif %}	# if문 끝내는 선언
 </body>
 </html>
