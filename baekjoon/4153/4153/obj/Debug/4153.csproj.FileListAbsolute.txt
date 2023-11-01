@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\4153\4153\obj\Debug\4153.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\4153\4153\obj\Debug\4153.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\4153\4153\obj\Debug\4153.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\4153\4153\bin\Debug\4153.exe.config
+C:\Users\rkffl\source\repos\4153\4153\bin\Debug\4153.exe
+C:\Users\rkffl\source\repos\4153\4153\bin\Debug\4153.pdb
+C:\Users\rkffl\source\repos\4153\4153\obj\Debug\4153.exe
+C:\Users\rkffl\source\repos\4153\4153\obj\Debug\4153.pdb
