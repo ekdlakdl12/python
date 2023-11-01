@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\2562\2562\bin\Debug\2562.exe.config
+C:\Users\rkffl\source\repos\2562\2562\bin\Debug\2562.exe
+C:\Users\rkffl\source\repos\2562\2562\bin\Debug\2562.pdb
+C:\Users\rkffl\source\repos\2562\2562\obj\Debug\2562.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\2562\2562\obj\Debug\2562.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\2562\2562\obj\Debug\2562.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\2562\2562\obj\Debug\2562.exe
+C:\Users\rkffl\source\repos\2562\2562\obj\Debug\2562.pdb
