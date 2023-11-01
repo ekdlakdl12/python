@@ -1,0 +1,8 @@
+C:\Users\rkffl\source\repos\2108\2108\bin\Debug\2108.exe.config
+C:\Users\rkffl\source\repos\2108\2108\bin\Debug\2108.exe
+C:\Users\rkffl\source\repos\2108\2108\bin\Debug\2108.pdb
+C:\Users\rkffl\source\repos\2108\2108\obj\Debug\2108.csproj.AssemblyReference.cache
+C:\Users\rkffl\source\repos\2108\2108\obj\Debug\2108.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkffl\source\repos\2108\2108\obj\Debug\2108.csproj.CoreCompileInputs.cache
+C:\Users\rkffl\source\repos\2108\2108\obj\Debug\2108.exe
+C:\Users\rkffl\source\repos\2108\2108\obj\Debug\2108.pdb
