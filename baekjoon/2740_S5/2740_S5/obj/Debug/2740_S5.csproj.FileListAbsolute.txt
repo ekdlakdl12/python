@@ -1,0 +1,7 @@
+D:\Xamarin_Study\2740_S5\2740_S5\bin\Debug\2740_S5.exe.config
+D:\Xamarin_Study\2740_S5\2740_S5\bin\Debug\2740_S5.exe
+D:\Xamarin_Study\2740_S5\2740_S5\bin\Debug\2740_S5.pdb
+D:\Xamarin_Study\2740_S5\2740_S5\obj\Debug\2740_S5.csproj.AssemblyReference.cache
+D:\Xamarin_Study\2740_S5\2740_S5\obj\Debug\2740_S5.csproj.CoreCompileInputs.cache
+D:\Xamarin_Study\2740_S5\2740_S5\obj\Debug\2740_S5.exe
+D:\Xamarin_Study\2740_S5\2740_S5\obj\Debug\2740_S5.pdb
